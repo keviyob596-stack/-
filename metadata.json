@@ -1,0 +1,6 @@
+{
+  "name": "صديقي",
+  "description": "تطبيق التواصل والألعاب الاجتماعية صديقي مع الغرف الصوتية والعملات واللعب بدون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
